@@ -1,0 +1,68 @@
+
+	[
+  {
+    "id": 1,
+    "picImg": "images/watch1.jpg",
+    "title": "华为手环B3 青春版",
+    "price":"4988",
+    "hot":"853",
+    "time":"2016-04-11"
+  },
+  {
+    "id": 2,
+    "picImg": "images/watch1.jpg",
+    "title": "华为手环B2 青春版",
+    "price":"88",
+    "hot":"635",
+    "time":"2017-10-11"
+  },
+  {
+    "id": 3,
+    "picImg": "images/watch1.jpg",
+    "title": "华为手环B4 青春版",
+    "price":"2988",
+    "hot":"753",
+    "time":"2016-09-06"
+  },
+  {
+    "id": 4,
+    "picImg": "images/watch1.jpg",
+    "title": "华为手环B7 青春版",
+    "price":"5988",
+    "hot":"53",
+    "time":"2018-05-23"
+  },
+  {
+    "id": 5,
+    "picImg": "images/watch1.jpg",
+    "title": "华为手环B6 青春版",
+    "price":"388",
+    "hot":"153",
+    "time":"2012-07-18"
+  },
+  {
+    "id": 6,
+    "picImg": "images/watch1.jpg",
+    "title": "华为手环B6 青春版",
+    "price":"388",
+    "hot":"153",
+    "time":"2012-08-18"
+  },
+  {
+    "id": 7,
+    "picImg": "images/watch1.jpg",
+    "title": "华为手环B6 青春版",
+    "price":"388",
+    "hot":"153",
+    "time":"2015-07-18"
+  },
+  {
+    "id": 8,
+    "picImg": "images/watch1.jpg",
+    "title": "华为手环B6 青春版",
+    "price":"388",
+    "hot":"153",
+    "time":"2022-07-18"
+  }
+]
+

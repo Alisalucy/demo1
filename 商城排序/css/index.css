@@ -1,0 +1,28 @@
+/* CSS Document */
+
+*{padding: 0; margin: 0}
+	img{vertical-align: top}
+	ul{list-style: none}
+	.clearfix::before,.clearfix::after{content: ""; clear: both; overflow: hidden; height: 0}
+	.box{width: 1200px; margin: 20px auto}
+	.head{line-height: 50px; background-color: aqua; height: 50px;}
+	.head dt{font-weight: 800; float: left;}
+	.head dd{float: left; width: 100px; text-align: center; cursor: pointer; position: relative;}
+	.head dd i{display:block; width:0; height:0; 
+			 position: absolute; right: 10px; top: 50%; margin-top: -2.5px;
+			 cursor: pointer;
+			}
+	.head dd i.rise{border:5px solid transparent; border-top-color:#333; top: 30px; }
+	.head dd i.drop{border:5px solid transparent; border-bottom-color:#333; top: 15px;}
+	.head dd .rise:hover{
+			border-top-color: red
+		}
+	.head dd .drop:hover{border-bottom-color: red}
+	
+	ul{margin-top: 30px}
+	ul li{width: 200px; height: auto; border: 1px solid #ccc; text-align: center; float: left}
+	ul li img{width: 100%}
+	ul li{margin-left: 20px;}
+	ul li span{color: hotpink}
+	ul li div{margin-bottom:10px; font-size: 12px;}
+	ul li .title{font-weight: 600; font-size: 14px;}
